@@ -1,4 +1,4 @@
 ## Personal information
 
-**First name**: Name
+**First name**: Name  
 **Last name**: Name
